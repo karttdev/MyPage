@@ -1,4 +1,2 @@
 # MyPage
-Здесь разместить резюме.
-111111111111111111111
-![image](https://github.com/karttdev/MyPage/assets/148588381/a4df01b8-e0d3-4dec-a266-19b66e8f3a7e)
+[![video]("C:\Users\ноуи\Downloads\Снимок экрана 2023-11-12 125344.png")]("C:\Users\ноуи\OneDrive\Документы\Zoom\2023-11-11 11.20.16 Zoom Meeting Александр Картвелишвили\video1277980698.mp4")]
